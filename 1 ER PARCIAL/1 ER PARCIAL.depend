@@ -1,0 +1,106 @@
+# depslib dependency file v1.0
+1600990970 source:c:\backup\zz pollo\facu utn\1er año\2do cuatri\lab ii\archivos\lab 2 1erparcial\1 er parcial\entrenamiento.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<ctime>
+	"rlutil.h"
+	"estructuras.h"
+	"interfaz.h"
+	"entrenamiento.h"
+	"Funciones.h"
+
+1593748668 c:\backup\zz pollo\facu utn\1er año\2do cuatri\lab ii\archivos\lab 2 1erparcial\1 er parcial\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1600990970 c:\backup\zz pollo\facu utn\1er año\2do cuatri\lab ii\archivos\lab 2 1erparcial\1 er parcial\estructuras.h
+
+1600990970 c:\backup\zz pollo\facu utn\1er año\2do cuatri\lab ii\archivos\lab 2 1erparcial\1 er parcial\interfaz.h
+
+1600990970 c:\backup\zz pollo\facu utn\1er año\2do cuatri\lab ii\archivos\lab 2 1erparcial\1 er parcial\entrenamiento.h
+
+1600990970 c:\backup\zz pollo\facu utn\1er año\2do cuatri\lab ii\archivos\lab 2 1erparcial\1 er parcial\funciones.h
+	"estructuras.h"
+
+1600990970 source:c:\backup\zz pollo\facu utn\1er año\2do cuatri\lab ii\archivos\lab 2 1erparcial\1 er parcial\funciones.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<ctime>
+	"rlutil.h"
+	"Funciones.h"
+	"estructuras.h"
+	"menu.h"
+	"interfaz.h"
+
+1600990970 c:\backup\zz pollo\facu utn\1er año\2do cuatri\lab ii\archivos\lab 2 1erparcial\1 er parcial\menu.h
+	"estructuras.h"
+
+1600991244 source:c:\backup\zz pollo\facu utn\1er año\2do cuatri\lab ii\archivos\lab 2 1erparcial\1 er parcial\interfaz.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<ctime>
+	"rlutil.h"
+	"Funciones.h"
+	"estructuras.h"
+	"menu.h"
+	"interfaz.h"
+
+1600990970 source:c:\backup\zz pollo\facu utn\1er año\2do cuatri\lab ii\archivos\lab 2 1erparcial\1 er parcial\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<ctime>
+	"rlutil.h"
+	"Funciones.h"
+	"estructuras.h"
+	"menu.h"
+	"interfaz.h"
+	"reportes.h"
+
+1600993113 c:\backup\zz pollo\facu utn\1er año\2do cuatri\lab ii\archivos\lab 2 1erparcial\1 er parcial\reportes.h
+	"estructuras.h"
+
+1600990970 source:c:\backup\zz pollo\facu utn\1er año\2do cuatri\lab ii\archivos\lab 2 1erparcial\1 er parcial\menu.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<ctime>
+	"rlutil.h"
+	"Funciones.h"
+	"estructuras.h"
+	"menu.h"
+	"interfaz.h"
+	"entrenamiento.h"
+	"reportes.h"
+
+1600994332 source:c:\backup\zz pollo\facu utn\1er año\2do cuatri\lab ii\archivos\lab 2 1erparcial\1 er parcial\reportes.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<ctime>
+	"rlutil.h"
+	"Funciones.h"
+	"estructuras.h"
+	"menu.h"
+	"interfaz.h"
+	"reportes.h"
+
